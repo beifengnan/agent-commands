@@ -11,7 +11,7 @@
 ## 安装
 
 ```bash
-git clone https://github.com/<你的用户名>/agent-commands.git
+git clone https://github.com/beifengnan/agent-commands.git
 cd agent-commands
 ```
 
@@ -39,7 +39,7 @@ powershell -ExecutionPolicy Bypass -File .\install.ps1
 ### Claude Code 也可以用插件方式安装
 
 ```
-/plugin marketplace add <你的用户名>/agent-commands
+/plugin marketplace add beifengnan/agent-commands
 /plugin install agent-commands@agent-commands
 ```
 
