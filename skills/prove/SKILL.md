@@ -7,9 +7,6 @@ disable-model-invocation: true
 
 # /prove — 向我证明这能用
 
-> 原文（Anthropic Claude Code 团队）："Prove to me this works."
-> 中文：向我证明这能用。
-
 不要用"我认为""应该可以"来回答，要拿出**实际运行的证据**。
 
 ## 做法

@@ -7,9 +7,6 @@ disable-model-invocation: true
 
 # /grill — 就这些改动考我
 
-> 原文（Anthropic Claude Code 团队）："Grill me on these changes and don't make a PR until I pass your test."
-> 中文：就这些改动来考我，我没通过你的考核之前不要提 PR。
-
 ## 做法
 
 1. 查看当前改动（`git diff`、`git diff --staged`，以及相对主分支的改动）。用户若附带了参数，只看该范围。

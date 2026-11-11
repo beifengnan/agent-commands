@@ -7,9 +7,6 @@ disable-model-invocation: true
 
 # /redo — 推翻重来，写优雅的方案
 
-> 原文（Anthropic Claude Code 团队）："Knowing everything you know now, scrap this and implement the elegant solution."
-> 中文：基于你现在掌握的全部信息，推翻这个实现，写一个优雅的方案。
-
 适用场景：第一版实现能跑但很别扭，堆了补丁、绕了弯路，或者在做的过程中才搞清楚问题的真正形状。
 
 ## 做法

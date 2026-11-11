@@ -7,10 +7,7 @@ disable-model-invocation: true
 
 # /lesson — 记住教训，别再犯
 
-> 原文（Anthropic Claude Code 团队）："Update your CLAUDE.md so you don't make that mistake again."
-> 中文：更新你的 CLAUDE.md，别再犯这个错。
-
-团队建议：**每次纠正 AI 之后都说一句。**
+建议每次纠正 AI 之后都运行一次。
 
 ## 做法
 

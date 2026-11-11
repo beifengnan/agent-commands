@@ -7,8 +7,6 @@ disable-model-invocation: true
 
 # /techdebt — 收尾时清理技术债
 
-> 来源：Anthropic《Claude Code 高级用户技巧》中，团队推荐的自定义命令示例——在每次会话结束时运行，找出并清理重复代码。
-
 和 `/audit` 的区别：`/audit` 体检整个项目；`/techdebt` 只盯**本次会话 / 当前分支**的改动及其直接相关的代码，适合每次收尾时跑。
 
 ## 做法
