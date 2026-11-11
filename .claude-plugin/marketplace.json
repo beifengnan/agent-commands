@@ -1,0 +1,11 @@
+{
+  "name": "agent-commands",
+  "owner": { "name": "agent-commands" },
+  "plugins": [
+    {
+      "name": "agent-commands",
+      "source": "./",
+      "description": "个人常用的斜杠命令合集（/audit 等）。"
+    }
+  ]
+}

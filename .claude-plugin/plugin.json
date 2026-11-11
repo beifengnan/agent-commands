@@ -1,0 +1,5 @@
+{
+  "name": "agent-commands",
+  "version": "0.1.0",
+  "description": "个人常用的斜杠命令合集（/audit 等），可在多个 AI agent 客户端中使用。"
+}
